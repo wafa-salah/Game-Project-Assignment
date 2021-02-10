@@ -9,7 +9,7 @@ The game should support/ must have:
    3) Start Screen
 The game should also include four optional features from the provided list on the assignment.
 
-Actual Project:
+Actual Project (Written in Python):
  
 Name of Game: Brick Breaker
 
