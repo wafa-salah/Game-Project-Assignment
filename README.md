@@ -12,6 +12,7 @@ The game should also include four optional features from the provided list on th
  Actual Project:
  Name of Game: Brick Breaker
  Purpose/Goal of the Game:
+ 
                  The goal of the game is to clear all the brick found towards the top of the screen without the
                  ball exiting from the bottom of the screen. The way to prevent this ball from going below the screen
                  is by using the platform at the bottom as a landing spot for the ball. The ball, when it hits the platform
