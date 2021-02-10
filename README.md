@@ -2,17 +2,17 @@
 
 Instructions for the Project:
 
-# The task is to use PyGame and gamebox to create an interesting game with a partner.
-# The game should support/ must have:
-  # 1) User Input
-  # 2) Graphics and Images
-  # 3) Start Screen  
-# The game should also include four optional features from the provided list on the assignment. 
+The task is to use PyGame and gamebox to create an interesting game with a partner.
+The game should support/ must have:
+   1) User Input
+   2) Graphics and Images
+   3) Start Screen  
+ The game should also include four optional features from the provided list on the assignment. 
 
   
-# Actual Project:
-# Name of Game: Brick Breaker
-# Purpose/Goal of the Game:
+ Actual Project:
+ Name of Game: Brick Breaker
+ Purpose/Goal of the Game:
                 # The goal of the game is to clear all the brick found towards the top of the screen without the
                 # ball exiting from the bottom of the screen. The way to prevent this ball from going below the screen
                 # is by using the platform at the bottom as a landing spot for the ball. The ball, when it hits the platform
@@ -21,7 +21,7 @@ Instructions for the Project:
                 # he/she loses a life, if the ball goes below the screen. The player will have an opportunity to win more lives with
                 #the gold coins scattered throughout the bricks.
 
-# Optional Features Included:
+ Optional Features Included:
 
                 # 1) Health Bar: You get three lives to clear the screen of the bricks;
                 #                each time the ball goes below the bottom of the screen, you lose a life
