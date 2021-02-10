@@ -9,9 +9,10 @@ The game should support/ must have:
    3) Start Screen
 The game should also include four optional features from the provided list on the assignment.
 
- Actual Project:
- Name of Game: Brick Breaker
- Purpose/Goal of the Game:
+Actual Project:
+ 
+Name of Game: Brick Breaker
+Purpose/Goal of the Game:
  
                  The goal of the game is to clear all the brick found towards the top of the screen without the
                  ball exiting from the bottom of the screen. The way to prevent this ball from going below the screen
