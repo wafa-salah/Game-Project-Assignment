@@ -72,8 +72,9 @@ ball.scale_by(0.125)
 
 brick_x = 50    # the x-coordinate for where the brick will be on the screen
 brick_y = 20    # the y-coordinate for where the brick will be on the screen
-#int = 0
 bricks1 = []
+
+# Draws the bricks on the screen
 while brick_y < 180:
     for int in range (0,7):
         bricks1.append(gamebox.from_color(brick_x, brick_y, "darkred", 100, 40))
@@ -104,7 +105,7 @@ scale_balls()
 
 def start():
     '''
-    creates the start screen, gives instructions for the game, and the authors
+    creates the start screen, gives instructions for the game, and displays authors' names
     '''
 
     camera.clear('black')
