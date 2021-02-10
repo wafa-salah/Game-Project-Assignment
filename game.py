@@ -1,5 +1,6 @@
 
-# Wafa Salah (wss9fb) and Valee Hefner (vlh6xg)
+# Authors: Wafa Salah (wss9fb) and Valee Hefner (vlh6xg)
+# Code last Modified: December 2019
 
 import pygame
 import gamebox  # gamebox is the work of Luther Tychonievich;
