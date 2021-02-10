@@ -1,6 +1,6 @@
 # Game-Project-Assignment UVA CS 1110 
 
-# Instructions for the Project:
+Instructions for the Project:
 
 # The task is to use PyGame and gamebox to create an interesting game with a partner.
 # The game should support/ must have:
